@@ -113,7 +113,12 @@ pip install -r requirements.txt
 python app_gradio.py
 ```
 
-The interface will be available at: **http://127.0.0.1:7860/**
+The Basic interface will be available at: **http://127.0.0.1:7860/**
+
+
+It will look like :
+<img width="1884" height="881" alt="image" src="https://github.com/user-attachments/assets/98be2e9d-f81b-4bb9-8454-e19418b516db" />
+
 
 ## Live Demo
 
