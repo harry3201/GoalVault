@@ -37,6 +37,10 @@ The dataset (`indian_finance.csv`) contains normalized financial data per indivi
 12. Miscellaneous
 13. Total Expenses
 
+
+**Dataset Preview:**
+<img width="2161" height="121" alt="image" src="https://github.com/user-attachments/assets/2c940d3b-81d5-494e-8367-9bc84edcb5fd" />
+
 **Target Variable:**  
 `goal_met` → `1` (goal achieved) or `0` (goal not achieved)
 
